@@ -1,4 +1,4 @@
-
+![logo](https://github.com/hammad7700/hammad7700/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Hammad Azhar</h1>
 <h3 align="center">A dedicated and results-driven software engineer from Pakistan. With a strong background in programming and problem-solving.</h3>
